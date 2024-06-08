@@ -1,0 +1,1 @@
+In this project, I created an K-Nearest Neighbors Model using Iris species dataset. So this my small attempt to try to explore algorithms and learn, practice this different things.If you are begineer then you can also refer this file for better understanding of K-Nearest Neighbors Model.
